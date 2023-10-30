@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @victoria-umoh
-- 👀 Full-Stack software developer 
-- 🌱 
-- 💞️ Interested in collaborating 
-- 📫 reach me via email: victoriasuave07@gmail.com
+- 👨‍💻 Full-Stack Software Engineer
+- 🚀 Passionate about creating meaningful tech solutions
+- 📚 Lifelong learner | Always exploring new technologies
+- 🌟 Open source enthusiast | Contributor to @ExampleOrg
+- 🌐 HTML5 | CSS | Bootstrap5 | React js, Node.js | PHP | Laravel | JavaScript
+- 🌍 World traveler | Exploring new cultures and cuisines
+- 🔗 portfolio: www.victoria-umoh.com | Twitter: @vickee571
 
 <!---
 victoria-umoh/victoria-umoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
