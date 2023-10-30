@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victoria-umoh
-- 👀 Full-Stack web developer 
+- 👀 Full-Stack software developer 
 - 🌱 
 - 💞️ Interested in collaborating 
 - 📫 reach me via email: victoriasuave07@gmail.com
