@@ -3,9 +3,10 @@
 - 🚀 Passionate about creating meaningful tech solutions
 - 📚 Lifelong learner | Always exploring new technologies
 - 🌟 Open source enthusiast 
-- 🌐 HTML5 | CSS | Bootstrap5 | React js, Node.js | PHP | Laravel | JavaScript
+- 🌐 HTML5 | CSS | Bootstrap5 | React js | Node.js | PHP | Laravel | JavaScript | RestApi | mySQL
 - 🌍 World traveler | Exploring new cultures and cuisines
-- 🔗 portfolio: www.victoria-umoh.com | Twitter: @vickee571
+- 🔗 portfolio: https://viques-portfolio.netlify.app
+- 🔗 Twitter: @vickee571
 
 <!---
 victoria-umoh/victoria-umoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
