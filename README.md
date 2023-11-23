@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @victoria-umoh
+- 👋 Hi, I’m victoria-umoh
 - 👨‍💻 Full-Stack Software Engineer
 - 🚀 Passionate about creating meaningful tech solutions
 - 📚 Lifelong learner | Always exploring new technologies
 - 🌟 Open source enthusiast 
-- 🌐 HTML5 | CSS | Bootstrap5 | React js | Node.js | PHP | Laravel | JavaScript | RestApi | mySQL
+- 🌐 HTML5 | CSS | Bootstrap5 | React js | JQuery | PHP | Laravel | JavaScript | RestApi | mySQL | Git | GitHub
 - 🌍 World traveler | Exploring new cultures and cuisines
 - 🔗 portfolio: https://viques-portfolio.netlify.app
 - 🔗 Twitter: @vickee571
